@@ -19,7 +19,7 @@ import InfoBox from "./infoBox.jsx";
           }
     return(
     <div style={{textAlign: "center"}}>
-        <h2 >Weather App</h2>
+        <h2 >Weather App By Nitesh</h2>
         <SearchBox updateInfo = {updateInfo}/>
         <InfoBox info = {weatherInfo}/>
         </div>
